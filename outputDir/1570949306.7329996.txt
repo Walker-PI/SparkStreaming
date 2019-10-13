@@ -1,0 +1,100 @@
+dp;strings;two pointers
+dp;graphs;implementation;shortest paths
+implementation
+brute force;greedy;two pointers
+greedy;implementation
+graph matchings
+binary search;data structures
+greedy;sortings
+bitmasks;constructive algorithms;graphs;implementation;math
+games;greedy;sortings
+math
+geometry
+greedy;math
+greedy;implementation
+implementation
+implementation
+data structures
+constructive algorithms
+""
+implementation;two pointers
+brute force
+brute force
+greedy
+""
+brute force
+data structures
+""
+""
+dp
+greedy
+""
+math
+dp
+combinatorics;math;matrices
+data structures
+""
+""
+""
+brute force;implementation
+math
+constructive algorithms;greedy
+brute force;implementation;math
+geometry
+combinatorics;math;number theory
+math;number theory
+data structures;graphs;trees
+combinatorics;math
+math
+implementation
+constructive algorithms;implementation;math
+constructive algorithms;implementation
+dp;probabilities
+constructive algorithms
+data structures
+""
+implementation
+""
+implementation
+brute force;implementation;schedules
+implementation;math
+dsu;graphs;shortest paths
+binary search;bitmasks;data structures
+implementation;math
+greedy;implementation;math
+constructive algorithms;greedy;implementation
+bitmasks;brute force;combinatorics;dp;number theory
+math
+greedy;math
+brute force;implementation
+brute force;constructive algorithms;graphs
+dp;greedy;math;number theory
+graphs;math
+combinatorics;dp
+data structures;implementation;trees
+implementation
+implementation;math
+dfs and similar;graphs;sortings
+dp;implementation
+binary search;greedy;implementation
+greedy;implementation;sortings
+""
+implementation;math
+greedy;implementation;math
+dfs and similar;graphs
+dfs and similar;geometry;trees
+implementation;math;two pointers
+brute force;geometry;implementation;math
+dp;implementation
+brute force;combinatorics;implementation;math
+dp;hashing
+data structures
+implementation
+implementation
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem

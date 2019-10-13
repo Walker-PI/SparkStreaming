@@ -1,0 +1,100 @@
+constructive algorithms;greedy
+dp;games;math;probabilities
+dp
+greedy;implementation;sortings
+implementation
+greedy;math;sortings
+dp
+string suffix structures;strings
+games;math;number theory
+combinatorics;dfs and similar;graphs;math
+data structures;math;probabilities
+dp;strings
+binary search;data structures;divide and conquer;trees
+implementation;math
+implementation;strings
+implementation
+binary search;implementation
+combinatorics
+brute force
+bitmasks;dp;graphs;trees
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+greedy
+math;number theory
+graphs;hashing;sortings
+games;math
+geometry
+brute force
+greedy;sortings
+brute force
+constructive algorithms;data structures;implementation
+combinatorics;dp
+combinatorics;graphs
+brute force;dp
+brute force
+geometry;sortings
+*special problem;implementation
+*special problem;greedy;implementation
+*special problem;data structures;implementation
+*special problem;brute force;number theory
+*special problem;dp;sortings
+*special problem;greedy;implementation
+*special problem;greedy;sortings
+*special problem;binary search;brute force;data structures;strings
+*special problem;brute force;dp;strings
+*special problem;data structures;greedy;sortings
+greedy;sortings
+greedy;sortings
+implementation;math;sortings
+dfs and similar;dsu;graphs;sortings
+binary search;data structures;sortings
+binary search;brute force;greedy;two pointers
+constructive algorithms;greedy;sortings
+divide and conquer
+dfs and similar;dp;trees
+brute force;dp
+*special problem;implementation
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+dp
+binary search
+sortings;two pointers
+brute force
+data structures;dfs and similar;dp;strings;trees
+dfs and similar;graphs
+two pointers
+flows;graphs
+binary search;brute force
+""
+implementation
+binary search;implementation
+binary search;brute force;dp;math;strings;two pointers
+data structures;dsu;trees
+bitmasks;brute force;dfs and similar;dp
+binary search;implementation;sortings
+geometry;sortings
+greedy;math;sortings
+dp;graph matchings;greedy;sortings;two pointers
+dp;math;matrices
+implementation
+dp;math;probabilities
+games;math
+data structures;divide and conquer;graph matchings;graphs;greedy
+dfs and similar;graphs;math;matrices
+implementation;math
+implementation;strings
+sortings
+greedy
+*special problem;constructive algorithms
+*special problem;combinatorics

@@ -1,0 +1,100 @@
+*special problem;implementation
+*special problem;data structures;implementation
+*special problem;dfs and similar;implementation
+*special problem;geometry;math
+*special problem;greedy;math
+greedy
+binary search;data structures;dp
+implementation;math
+dp;greedy;probabilities;sortings;trees
+divide and conquer;dp
+brute force
+implementation
+greedy;implementation;math
+dfs and similar;dsu;graphs
+constructive algorithms;greedy
+brute force;data structures;sortings
+flows;graph matchings
+implementation
+implementation
+brute force;probabilities
+brute force;implementation;sortings
+brute force;dsu;implementation
+brute force
+implementation
+brute force;implementation
+dp
+brute force;implementation
+geometry;ternary search
+dfs and similar;graphs
+combinatorics;dp;math;probabilities
+bitmasks;dp
+dp;graphs;matrices
+geometry;probabilities
+implementation;strings
+math;sortings
+brute force;implementation
+brute force;probabilities
+dp;dsu;trees
+constructive algorithms;sortings
+brute force;math
+implementation
+constructive algorithms;strings
+greedy
+binary search;data structures;number theory
+bitmasks;dp;dsu
+combinatorics;dp
+""
+implementation;strings
+implementation;math
+implementation;strings
+brute force;data structures;hashing;strings
+brute force;math;number theory
+math;matrices;probabilities
+combinatorics;implementation;math
+math
+bitmasks;brute force;graphs
+dfs and similar;graphs;trees
+greedy;sortings
+math
+dp;expression parsing
+data structures;dp
+implementation
+greedy;implementation
+implementation;math
+brute force;number theory
+dfs and similar;graphs
+divide and conquer;math
+data structures;divide and conquer;implementation;trees
+implementation;strings
+constructive algorithms;implementation
+brute force;greedy;sortings;strings
+dp
+dfs and similar;graphs
+implementation
+constructive algorithms;implementation;sortings
+dp
+hashing;strings
+geometry
+brute force;implementation;math
+implementation
+implementation;math
+brute force
+games
+dp;greedy;trees
+implementation
+graph matchings
+greedy
+divide and conquer;geometry;sortings
+implementation
+strings
+brute force;combinatorics;number theory
+binary search;implementation;two pointers
+data structures
+brute force;number theory
+brute force;implementation
+implementation;number theory;strings
+math
+combinatorics;dp;greedy
+string suffix structures
+dfs and similar;dp;probabilities;trees

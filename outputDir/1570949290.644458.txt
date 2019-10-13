@@ -1,0 +1,100 @@
+dfs and similar;graphs;trees
+brute force;greedy
+constructive algorithms;graphs;math
+constructive algorithms;sortings
+geometry;math
+dp
+graphs
+implementation
+geometry;implementation;math
+dp;probabilities
+binary search
+brute force
+implementation
+graphs;shortest paths
+dsu;graphs;trees
+hashing;strings
+number theory
+greedy
+combinatorics;constructive algorithms
+combinatorics;math;probabilities
+constructive algorithms
+implementation;sortings
+bitmasks;brute force;dfs and similar;greedy
+constructive algorithms;greedy
+2-sat;dfs and similar;dsu;graphs
+brute force;dp;number theory
+implementation
+dfs and similar;dsu;graphs
+combinatorics;dp;probabilities
+binary search;data structures;dp;hashing
+geometry;math
+brute force
+implementation
+data structures;dfs and similar;graphs;implementation
+constructive algorithms;dfs and similar;trees
+graphs;shortest paths
+brute force;math
+implementation
+dp;probabilities
+geometry;greedy
+binary search;constructive algorithms;data structures;greedy;hashing;strings
+implementation
+greedy;implementation;strings
+implementation
+dfs and similar;implementation
+dp
+brute force
+expression parsing;implementation
+math
+implementation
+geometry;implementation
+greedy;implementation
+shortest paths
+greedy
+geometry;graphs;shortest paths;sortings
+""
+implementation
+greedy;sortings
+expression parsing;implementation;sortings;strings
+dfs and similar;graphs
+brute force;implementation;math
+implementation
+implementation
+brute force;dfs and similar;shortest paths
+dp;greedy
+data structures;sortings
+implementation
+implementation
+geometry;implementation
+games
+constructive algorithms;dsu;graphs;implementation
+sortings
+greedy;implementation
+data structures;greedy;trees
+combinatorics;dp;math
+graphs;greedy;shortest paths
+implementation
+brute force;implementation;math
+brute force
+implementation
+dp;sortings
+dp;games;strings
+data structures
+dp
+expression parsing;greedy
+greedy
+dp;sortings
+math
+dp;games
+implementation
+implementation
+implementation
+""
+hashing;implementation;strings
+""
+constructive algorithms;geometry;implementation;math
+math
+implementation;math
+math
+combinatorics

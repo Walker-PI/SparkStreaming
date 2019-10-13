@@ -1,0 +1,100 @@
+binary search;data structures;dp;greedy;two pointers
+hashing;strings
+combinatorics
+graphs;greedy;number theory;shortest paths
+combinatorics;math
+bitmasks;dfs and similar;dsu;graphs
+fft;math
+brute force;data structures;math;number theory;trees
+graphs;math;number theory;shortest paths
+implementation
+math
+brute force;dp;implementation
+brute force;implementation
+sortings;strings
+implementation;sortings
+brute force;math
+brute force;greedy
+dp
+implementation;strings
+constructive algorithms;strings
+constructive algorithms;graphs
+binary search;geometry;math;sortings;two pointers
+dp;geometry;matrices;probabilities
+implementation;math
+greedy;sortings
+implementation
+constructive algorithms;graphs;implementation
+brute force;greedy
+dfs and similar;dp;greedy;trees
+divide and conquer;dp;dsu;number theory;trees
+implementation
+greedy;sortings
+binary search;implementation
+dp;greedy
+brute force;combinatorics;math
+brute force;greedy;implementation;math
+implementation;sortings
+math;number theory
+math
+brute force;implementation;math
+binary search;data structures
+geometry;implementation
+bitmasks;brute force
+bitmasks;brute force;geometry
+binary search;dp;greedy
+chinese remainder theorem;fft;math
+""
+implementation
+greedy;implementation;sortings
+constructive algorithms;implementation
+greedy;implementation;math
+brute force;data structures;geometry;greedy;math;sortings
+math
+divide and conquer;graphs;meet-in-the-middle;number theory
+combinatorics;dp;math;trees
+dp;greedy
+binary search;math
+brute force;greedy;implementation;math
+brute force;combinatorics;dp;greedy;math
+combinatorics;math
+combinatorics;divide and conquer;trees
+data structures
+constructive algorithms;implementation
+dp;greedy;sortings
+brute force;implementation
+implementation
+implementation
+data structures;greedy;implementation
+dfs and similar;graphs;greedy
+dp
+greedy;implementation
+greedy
+data structures;implementation;sortings
+combinatorics;dp
+dfs and similar;graphs;trees
+data structures;divide and conquer
+data structures;dp;trees
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""

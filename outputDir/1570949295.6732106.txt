@@ -1,0 +1,100 @@
+math
+brute force;combinatorics;implementation
+math
+implementation
+constructive algorithms;greedy
+constructive algorithms;greedy
+binary search;graphs
+binary search;brute force;math
+binary search;dp;hashing;string suffix structures;strings
+constructive algorithms;greedy
+dp;math
+brute force;flows
+geometry
+implementation
+dfs and similar
+brute force;constructive algorithms;hashing;implementation;string suffix structures;strings
+combinatorics;dp
+constructive algorithms;implementation
+geometry;math
+implementation
+brute force;dfs and similar;graphs;implementation
+*special problem;implementation
+*special problem;implementation;strings
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem
+*special problem;sortings
+*special problem
+implementation;strings
+implementation;math
+combinatorics;math
+dfs and similar;graphs
+sortings
+binary search;two pointers
+implementation
+implementation
+dp
+constructive algorithms;dp;greedy
+flows;graphs
+implementation
+implementation
+brute force;implementation
+brute force;dfs and similar;math;number theory
+constructive algorithms;graphs;greedy
+greedy;implementation;sortings
+brute force;geometry;math
+constructive algorithms;games;greedy
+brute force;dfs and similar;implementation
+combinatorics
+implementation
+implementation;math
+implementation
+greedy
+sortings
+dp;strings
+data structures;implementation;strings
+implementation
+greedy
+binary search;data structures;probabilities;sortings
+dp;games
+brute force;dp;two pointers
+implementation
+implementation;math
+geometry;math
+brute force;greedy;implementation
+binary search;data structures;greedy
+greedy;sortings
+combinatorics;dp
+geometry;sortings
+implementation;sortings;strings
+geometry;math
+constructive algorithms;greedy;sortings
+graphs;shortest paths
+constructive algorithms;dp;dsu;graphs
+brute force;math
+constructive algorithms;greedy;implementation
+brute force;dp
+games
+geometry
+brute force;math
+implementation;strings
+implementation
+implementation
+implementation;strings
+data structures;dfs and similar;graphs;shortest paths
+data structures;greedy
+greedy;implementation
+constructive algorithms
+combinatorics;dp;math
+combinatorics;data structures;implementation
+data structures
+implementation
+brute force;implementation
+implementation;strings
+binary search;graphs;matrices
+constructive algorithms;implementation;math
+implementation;math

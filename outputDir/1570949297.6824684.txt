@@ -1,0 +1,100 @@
+*special problem;implementation
+*special problem;brute force
+*special problem
+*special problem;brute force;implementation;number theory
+*special problem
+*special problem;implementation
+*special problem;brute force;implementation
+*special problem;implementation;number theory
+*special problem;implementation;sortings
+*special problem;number theory
+*special problem;dfs and similar;expression parsing
+implementation;math
+dfs and similar;shortest paths
+brute force;dp
+constructive algorithms;graphs;greedy;implementation
+data structures;sortings
+math
+dp;greedy;implementation
+data structures;greedy
+brute force;implementation
+implementation
+greedy;implementation;sortings;two pointers
+brute force;dp;math;probabilities
+brute force;dp;geometry;greedy
+data structures;graphs;implementation;shortest paths
+greedy;sortings
+dp
+combinatorics;constructive algorithms
+dp
+data structures;dfs and similar;trees
+implementation
+implementation
+number theory
+number theory
+dfs and similar;dsu;graphs
+brute force;dfs and similar;dsu;graphs
+brute force
+data structures
+binary search
+binary search
+""
+""
+strings
+matrices;strings
+""
+greedy
+greedy
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+dp;sortings;strings
+""
+implementation
+math;number theory
+dp
+greedy;strings
+binary search;dp;two pointers
+constructive algorithms;implementation;math
+brute force;geometry;implementation
+binary search;brute force
+geometry;graphs;implementation;shortest paths
+implementation
+data structures;greedy
+brute force;hashing;implementation;math;strings
+dp
+constructive algorithms;math
+brute force;geometry
+dfs and similar
+dp;greedy;probabilities
+greedy
+math
+math;ternary search
+dp
+math;number theory
+binary search;data structures
+implementation;strings
+greedy;sortings
+greedy
+dp;shortest paths
+dfs and similar;dsu
+data structures
+data structures;greedy
+*special problem
+*special problem;implementation
+*special problem;implementation;math
+*special problem;implementation
+*special problem;implementation
+*special problem;implementation
+*special problem;implementation
+*special problem;expression parsing;implementation

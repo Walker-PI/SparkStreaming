@@ -1,0 +1,100 @@
+dp
+dfs and similar;graphs;shortest paths
+constructive algorithms
+dp;greedy;math;probabilities
+dp;graph matchings;math;trees
+math
+math;number theory
+constructive algorithms;graphs
+dp;graphs;number theory;shortest paths
+data structures;greedy
+data structures;greedy
+greedy
+binary search;data structures
+greedy
+brute force;dp;greedy
+brute force
+flows;graphs
+dp
+implementation
+constructive algorithms
+constructive algorithms;divide and conquer;geometry
+binary search;geometry
+implementation;strings
+implementation;math
+binary search;two pointers
+binary search;brute force;data structures;greedy
+bitmasks;combinatorics;dp;math
+dfs and similar;dp;greedy;trees
+data structures;string suffix structures
+implementation;math
+implementation;sortings
+greedy;strings
+implementation;math;number theory
+binary search;math
+graphs;greedy;shortest paths
+data structures;trees
+dp;greedy
+data structures;games
+math
+greedy
+""
+binary search;sortings
+greedy;sortings
+dp
+data structures;dp
+constructive algorithms
+math
+math
+implementation
+constructive algorithms;implementation;math
+strings
+data structures;interactive;sortings
+constructive algorithms;math
+constructive algorithms;implementation
+combinatorics;dp;math
+dsu;graphs;shortest paths;sortings
+binary search;constructive algorithms;greedy;math;number theory
+constructive algorithms;implementation;interactive
+math;probabilities
+data structures;hashing;strings
+math
+greedy
+greedy;sortings
+constructive algorithms;graphs;implementation
+binary search;dp;greedy
+dp;strings;trees
+flows;graphs
+data structures;dp;trees
+greedy;strings
+data structures;trees
+data structures;implementation
+data structures;dp;geometry
+data structures
+brute force;implementation
+greedy;implementation
+combinatorics;dp;implementation
+implementation;strings
+math
+implementation;math
+constructive algorithms;implementation;trees
+greedy;implementation;strings
+""
+combinatorics;data structures;dp
+math
+brute force;constructive algorithms
+implementation;sortings
+constructive algorithms;greedy;math
+bitmasks;constructive algorithms;implementation;interactive
+dp;greedy;math;trees
+data structures;trees
+dp
+graphs
+""
+graphs
+""
+""
+""
+2-sat;dfs and similar;graphs
+""
+greedy;implementation

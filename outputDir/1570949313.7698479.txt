@@ -1,0 +1,100 @@
+greedy;implementation
+implementation
+binary search;data structures;dp
+binary search;data structures;greedy;sortings
+dfs and similar;graphs;hashing;shortest paths
+dp
+brute force;implementation;math;number theory
+combinatorics;dp;math
+2-sat;greedy
+brute force;geometry;math
+data structures;dp
+implementation;math
+greedy;math
+implementation
+constructive algorithms;games;greedy;implementation;math
+constructive algorithms;data structures;implementation
+binary search;bitmasks;constructive algorithms;dfs and similar;graphs;trees
+combinatorics;dp
+combinatorics;implementation;math
+dp;greedy;sortings
+constructive algorithms;dfs and similar;graphs;greedy
+binary search;data structures;dsu;trees
+math
+sortings
+data structures;greedy;implementation;sortings
+implementation;math;number theory
+binary search;data structures;dp;math
+constructive algorithms;dfs and similar;trees
+data structures;divide and conquer;dp
+data structures;greedy
+greedy;implementation
+brute force;dfs and similar;graphs;hashing
+math;matrices
+dfs and similar;trees
+bitmasks;brute force;graph matchings
+constructive algorithms
+geometry
+dp;greedy
+dfs and similar;shortest paths
+combinatorics;number theory
+data structures
+math;number theory
+constructive algorithms;dfs and similar;greedy;trees
+constructive algorithms;divide and conquer;geometry;greedy;sortings
+dp;matrices
+binary search;data structures
+implementation;number theory
+combinatorics;data structures;dp;two pointers
+geometry;math
+brute force;greedy
+ternary search
+dp;greedy
+constructive algorithms;greedy
+matrices;trees
+bitmasks
+brute force;implementation;sortings
+brute force;dp;implementation
+binary search;sortings;two pointers
+dfs and similar;graphs;trees
+bitmasks;dp
+data structures;hashing;strings
+implementation;math
+implementation;math
+implementation;math;sortings
+bitmasks;brute force;constructive algorithms;geometry;implementation;math
+dp;greedy
+dp;trees;two pointers
+constructive algorithms;greedy;number theory
+constructive algorithms;dp;matrices
+number theory
+dp;math;number theory
+bitmasks;dp;expression parsing
+implementation
+greedy;implementation
+math
+combinatorics
+constructive algorithms;greedy;strings
+brute force;math;number theory
+constructive algorithms;greedy;math
+brute force;implementation
+dfs and similar;graphs;shortest paths
+number theory
+meet-in-the-middle
+combinatorics;math;number theory
+dp;implementation;strings
+implementation
+implementation
+greedy
+dp
+data structures;trees
+2-sat;binary search
+data structures
+data structures;strings
+greedy
+math
+implementation
+binary search;geometry;math
+dfs and similar;graphs;shortest paths
+dp
+graph matchings;strings

@@ -1,0 +1,100 @@
+greedy
+implementation
+greedy;implementation;sortings
+brute force;dfs and similar;implementation
+dfs and similar;graphs
+brute force;data structures;dp
+constructive algorithms;data structures;implementation;two pointers
+dp;number theory
+dp
+dp;two pointers
+data structures;dp
+implementation
+greedy;implementation
+implementation
+constructive algorithms;graph matchings;implementation;shortest paths
+constructive algorithms;greedy;math
+graphs;math;shortest paths
+data structures;math
+math;number theory
+dfs and similar;graphs
+math;matrices
+brute force
+implementation;math
+constructive algorithms;implementation
+dp
+math;probabilities;sortings
+greedy;math
+dp
+constructive algorithms;flows;graphs;greedy
+data structures;dp;graphs;sortings
+""
+geometry;implementation;math
+data structures;greedy;implementation
+brute force
+binary search;brute force;math;number theory
+constructive algorithms;implementation
+data structures;strings
+constructive algorithms;math;number theory
+implementation;math
+implementation;math
+data structures;implementation
+combinatorics;math;sortings
+combinatorics;constructive algorithms;graphs
+dp
+dp;games
+binary search;greedy;sortings
+dfs and similar;dp;greedy;trees
+brute force;geometry
+dfs and similar;graphs;greedy;sortings
+data structures;implementation
+implementation
+constructive algorithms;implementation
+implementation
+games;greedy
+data structures;greedy;implementation;sortings
+bitmasks;dp;greedy;implementation;math
+data structures;graphs;trees
+dfs and similar;dsu
+constructive algorithms;geometry
+games;implementation
+dp;probabilities
+flows;trees
+implementation
+brute force;strings
+brute force;geometry;implementation
+binary search;brute force;implementation;two pointers
+dp;implementation;two pointers
+bitmasks;dp
+dp;games;greedy;number theory
+geometry
+data structures;implementation;two pointers
+implementation;math;probabilities;trees
+data structures;flows;graphs;implementation
+data structures;dp;implementation;math
+implementation;strings
+brute force;implementation;two pointers
+implementation
+greedy;math
+constructive algorithms;implementation;math
+dp;games
+bitmasks;data structures;trees
+constructive algorithms;data structures;implementation
+dfs and similar;dp;graphs
+dp
+dp;math;number theory
+combinatorics;data structures;math
+implementation;math;number theory
+brute force;implementation
+greedy;implementation
+implementation
+greedy;implementation;sortings
+bitmasks;combinatorics;dp;implementation;meet-in-the-middle
+combinatorics;dp;math
+constructive algorithms;math
+implementation
+greedy;implementation
+data structures;sortings
+constructive algorithms;fft;math
+brute force;implementation
+binary search;math

@@ -1,0 +1,100 @@
+dfs and similar;divide and conquer;dp;graphs;sortings;trees
+dp;hashing;strings
+brute force;implementation
+implementation;math
+implementation
+dp;graphs
+dp;greedy;strings;trees
+math;number theory
+binary search;implementation;math
+implementation;strings
+games;greedy
+dfs and similar
+binary search;data structures;two pointers
+implementation;math;number theory
+string suffix structures;strings
+math
+combinatorics
+implementation
+constructive algorithms;implementation
+data structures
+implementation
+constructive algorithms
+geometry;implementation
+dfs and similar;dp;graph matchings;greedy;trees
+data structures;geometry
+constructive algorithms;two pointers
+dp;math;matrices;probabilities
+implementation;math
+implementation
+greedy
+binary search;two pointers
+bitmasks;data structures;trees
+data structures
+implementation
+combinatorics;implementation
+combinatorics;math;number theory;probabilities
+brute force;constructive algorithms;math
+dp;matrices
+implementation;math
+implementation
+data structures;implementation
+constructive algorithms
+dfs and similar;greedy;sortings;trees
+math
+constructive algorithms;graphs
+dp;greedy;number theory
+binary search;dp
+greedy;math;probabilities
+combinatorics;dp;fft;math
+math
+greedy;sortings
+implementation;math
+constructive algorithms;greedy;strings
+constructive algorithms;implementation
+constructive algorithms;implementation;math
+data structures;greedy
+brute force;implementation
+constructive algorithms;dp;math
+brute force;greedy;math;number theory
+brute force;combinatorics;dp;probabilities
+binary search;math;ternary search
+dp
+data structures;dp;greedy;math
+dp;math
+data structures
+data structures;divide and conquer;greedy
+binary search;dfs and similar;dp;graphs;greedy;trees
+two pointers
+dfs and similar;dsu;graphs;trees
+implementation
+dp
+greedy
+dp
+data structures;implementation
+flows
+brute force;combinatorics;constructive algorithms;implementation
+brute force
+dp;strings
+data structures;dp
+combinatorics;data structures;dfs and similar;dp;probabilities;trees
+number theory
+math
+combinatorics;math
+math
+math
+combinatorics;math
+combinatorics
+combinatorics;math
+combinatorics
+math;number theory
+math
+implementation
+geometry;math
+math
+geometry
+geometry
+geometry
+games
+brute force;implementation
+constructive algorithms;implementation

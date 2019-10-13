@@ -1,0 +1,100 @@
+implementation
+implementation
+dp;greedy
+dfs and similar;graphs
+data structures;implementation;sortings
+data structures;dsu;graphs;trees
+math;number theory
+brute force;implementation;math
+bitmasks;greedy;math
+constructive algorithms;graphs;shortest paths
+data structures;interactive;trees
+data structures;trees
+dp;greedy;implementation;math
+dfs and similar;dp;games;graphs
+combinatorics;dp;matrices
+dp;math;matrices;trees
+data structures;string suffix structures;strings;trees
+brute force;implementation
+implementation;strings
+brute force;greedy;implementation
+binary search;brute force;dp;implementation;number theory
+brute force;implementation
+dfs and similar;dp;graphs
+chinese remainder theorem;math;number theory
+games;graphs;shortest paths
+implementation
+implementation
+dfs and similar;greedy;math;sortings;two pointers
+dp;greedy;implementation
+data structures;dfs and similar;dsu;graphs
+brute force;data structures;dsu;number theory
+binary search;bitmasks;brute force;combinatorics;math;number theory
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+implementation
+brute force
+brute force;number theory
+greedy;sortings
+dp
+constructive algorithms;dp;greedy;number theory
+math;number theory
+binary search;data structures
+data structures;greedy;strings;trees
+constructive algorithms;implementation;strings
+fft;math;matrices
+constructive algorithms;graphs;trees
+greedy;implementation
+binary search;greedy;two pointers
+data structures;dp;greedy
+""
+""
+dp
+binary search
+binary search;implementation;sortings
+constructive algorithms;math
+constructive algorithms
+data structures;trees
+binary search;flows
+implementation;math
+""
+""
+""
+""
+""
+""
+""
+""
+data structures
+""
+*special problem;strings
+*special problem;dp
+*special problem;graphs;implementation
+*special problem;strings;trees
+*special problem;greedy;implementation
+*special problem;implementation
+*special problem;combinatorics;math
+""
+dfs and similar;graphs;trees
+implementation;probabilities;strings
+data structures;dp
+data structures;games;implementation
+data structures;dp;math
+brute force;greedy;implementation;math
+constructive algorithms;implementation
+implementation;math
+constructive algorithms
+binary search;data structures;dfs and similar
+brute force;constructive algorithms
